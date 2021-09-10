@@ -8,7 +8,7 @@ function Header(props) {
     <Head>
       <meta charSet="utf-8" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <title>dev.rodneyrinaldi</title>
+      <title>blog.rodneyrinaldi</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <div className={styles.container}>

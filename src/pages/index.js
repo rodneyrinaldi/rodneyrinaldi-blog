@@ -7,6 +7,8 @@ function Index() {
     <>
       <Layout showback='no'>
         <div className={styles.grid}>
+          <p>Aplicação em desenvolvimento</p>
+          <p>Novidades em breve!</p>
         </div>
       </Layout>
     </>

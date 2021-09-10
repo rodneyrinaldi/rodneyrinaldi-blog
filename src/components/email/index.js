@@ -14,7 +14,7 @@ function Email(props) {
   const [policie, setPolicie] = useState("")
 
   // const { query: { service }, } = router
-  const service = 'fale conosco dev.rodneyrinaldi.com'
+  const service = 'fale conosco blog.rodneyrinaldi.com'
 
   function handleSubmit(e) {
     e.preventDefault()
